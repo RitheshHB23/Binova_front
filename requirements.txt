@@ -1,0 +1,5 @@
+streamlit
+firebase-admin
+pydeck
+protobuf==3.20
+requests
